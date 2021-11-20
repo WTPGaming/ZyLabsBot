@@ -1,2 +1,2 @@
 # ZyLabsBot
-A bot to programatically complete most ZyBooks activities automagically
+A bot to programatically complete most ZyLabs activities automagically
